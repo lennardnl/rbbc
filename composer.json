@@ -1,0 +1,12 @@
+{
+    "name": "riksomers/rbbc",
+    "description": "Remastered version of the original NBBC: The New BBCode Parser from the Phantom Inker, abandoned in 2010.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rik Somers",
+            "email": "git@riksomers.nl"
+        }
+    ],
+    "require": {}
+}
